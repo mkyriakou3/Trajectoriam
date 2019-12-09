@@ -1,0 +1,5 @@
+Copy and paste the 'Trajectoriam.py' file into this directory.
+
+Then execute 'setup.py' script to compile.
+
+Ensure you read documentation regarding the compile process.
